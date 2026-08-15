@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nicolasdibot.github.io/website_dibot/">Portfolio</a> ·
+  <a href="https://dibot.fr/">Professional website</a> ·
   <a href="https://orcid.org/0000-0001-6097-0293">ORCID</a> ·
   <a href="https://scholar.google.com/citations?user=YAc4fGUAAAAJ&amp;hl=en">Google Scholar</a> ·
   <a href="https://www.linkedin.com/in/nicolas-dibot-203385178/">LinkedIn</a>
@@ -25,7 +25,7 @@ Current interests include interpretable deep learning, survival analysis, multim
 
 - **[hallucinations](https://github.com/NicolasDibot/hallucinations)** — Dated public snapshot of the analysis protocol and prospective falsification criteria for a predictive-coding study of hallucinations. The development repository remains private.
 
-- **[website_dibot](https://github.com/NicolasDibot/website_dibot)** — Source code for my [research and applied-AI portfolio](https://nicolasdibot.github.io/website_dibot/).
+- **[website_dibot](https://github.com/NicolasDibot/website_dibot)** — Source code for my [research and applied-AI website](https://dibot.fr/).
 
 ## Selected publications
 
@@ -53,4 +53,4 @@ Current interests include interpretable deep learning, survival analysis, multim
 
 ## Collaboration
 
-For research collaborations, scientific consulting, or applied AI work, see my [portfolio](https://nicolasdibot.github.io/website_dibot/) or contact me via [LinkedIn](https://www.linkedin.com/in/nicolas-dibot-203385178/).
+For research collaborations, see my [research profile](https://dibot.fr/recherche.html). For scientific consulting or applied AI work, see my [AI consulting services](https://dibot.fr/ia-appliquee.html) or contact me via [LinkedIn](https://www.linkedin.com/in/nicolas-dibot-203385178/).
